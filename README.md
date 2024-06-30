@@ -1,24 +1,38 @@
-# Mohammed Ameen
+# Mohammed Ameen 
 
 ### About Me
 
-I am a Computer Science student at College of Engineering Chengannur.
+> I'm a second-year Computer Science Engineering student at the College of Engineering Chengannur. I have skills in programming languages such as C and Java. I am also very knowledgeable in front-end development using HTML, CSS, and JavaScript. I have passion to learn domains such as Full Stack Development and Machine Learning. 
 
 
 ## Portfolio Highlights
 
+### My Projects
 
-#### Leadership and Influence:
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Mulearn Clone**  | Clone of the landing page of Mulearn's website                                              | [Hosted Link](https://always-r0gu3.github.io/Mulearn-Website-Clone/)    | [Repo Link](https://github.com/Always-R0GU3/Mulearn-Website-Clone)             |
+| **Personal Portfolio**  | Personal Portfolio using HTML, CSS and Javascript                                              | [Hosted Link](https://always-r0gu3.github.io/Webcraft-Task/)    | [Repo Link](https://github.com/Always-R0GU3/Webcraft-Task)             |
 
-- I have demonstrated strong leadership and influencing skills through various experiences:
+#### Career Plan:
 
-Mentoring Junior Students: Organized study groups, provided resources, and offered career advice to help junior students succeed in the Computer Application program.
-These experiences have equipped me with the skills to lead, inspire, and make a positive impact in the technology domain.
+- My career plan is to learn Full Stack Development and Machine Learning so that I can combine these domains to create robust applications.
 
-#### Networking:
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Kerala can excel in the technology startup ecosystem by fostering collaboration between startups, academia, and industry, attracting investment, nurturing talent, diversifying into new sectors, and creating forward-looking policies.
+
+#### Highly Used Software Tools:
+
+- VS Code
+- GitHub
+
+#### Competitive Website Profiles:
+
+- [Hackerrank](https://www.hackerrank.com/profile/m_ameen2108)
 
 
-- Networking Skills
-I possess strong networking skills, including effective communication, active listening, and the ability to build meaningful professional relationships. By leveraging these skills and activities, I aim to foster a collaborative and supportive environment where knowledge is shared, and everyone is encouraged to grow and succeed.
 
 
+
+---
