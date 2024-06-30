@@ -1,8 +1,11 @@
-# Full Name 
-
+# K Wilbur Donovan
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi I am Wilbur. 
+I am an avid learner. 
+I am skilled in designing tools such as figma. 
+I am proficient in various programming languages such as python, Java and C. 
+I am familiar with MySQL and basics of front end developement(HTML|CSS|JavaScript).
 
 
 ## Portfolio Highlights

@@ -1,8 +1,8 @@
-# Full Name 
+# Devipriya S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I completed my Bachelor's in Technology in Computer Science at College of Engineering,Chengannur.
 
 
 ## Portfolio Highlights
@@ -11,12 +11,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Data Structure and Algorithm Visualizer **  | Build Data Structure and Algorithm Visualizer using AR in Unity                                           | [HostedLink 1](https://example.com)    | [Repo Link 1](https://github.com/Devi-priya22/Final_Project)             |
+| **Parkinson's Disease Detector**  | Parkinson's Disease Detector developed using Machine Learning,HTML,CSS &Flask                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/Devi-priya22/parkinson)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Worked as Tinkerhub Women In Tech Leader and coordinated and conducted many events
 
 #### Networking:
 

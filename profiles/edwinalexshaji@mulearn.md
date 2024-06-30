@@ -1,8 +1,8 @@
-# Full Name 
+# Edwin Alex Shaji
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm passionate about programming and technology, specializing in both front-end and back-end development with a focus on React and Django. I enjoy building projects that solve real-world problems and am always eager to learn and explore new technologies. I also believe in giving back to the community through volunteer work and sharing my knowledge. I'm open to job opportunities where I can grow and contribute effectively.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **QuickCart**  | A platform to enhance the grocery shopping experience by connecting local consumers with nearby grocery shops for convenient and efficient purchases. | [Hosted Link](https://quickcart-nine.vercel.app/login)    | [Repo Link](https://github.com/edwineas/QuickCart)             |
 
 #### Leadership and Influence:
 
@@ -49,10 +48,5 @@
 #### Competitive Website Profiles:
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

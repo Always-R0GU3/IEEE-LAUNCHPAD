@@ -1,8 +1,8 @@
-# Full Name 
+# REVATHY JAYAKUMAR 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Passionate about software architecture and design, with strong proficiency in C++, Java, Python, JavaScript, and SQL, backed by a Master's in Computer Applications. Adept at developing innovative, scalable, and reliable solutions adhering to best practices, clean code principles, and agile methodologies. Proven ability to manage complex projects, maintain high standards, and continuously upskill in cutting-edge technologies. Eager to leverage technical expertise, tackle big industry challenges, and contribute to a winning team with a commitment to innovation and impact.
 
 
 ## Portfolio Highlights

@@ -1,8 +1,8 @@
-# Full Name 
+# Charles Varghese
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am currently a third year Electronics and Communication Engineering Student.
 
 
 ## Portfolio Highlights

@@ -1,8 +1,8 @@
-# Full Name 
+# A Ananthakrishnan
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> currently pursuing MCA in Rajiv gandhi Institute of technology,Pampady
 
 
 ## Portfolio Highlights

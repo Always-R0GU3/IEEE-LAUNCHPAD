@@ -1,8 +1,8 @@
-# Full Name 
+# Akshay Suresh M
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am a passionate and dedicated software developer with a strong background in web development,Front end development and Database Management . I hold a Bachelor of Technology (BTech) degree in  Computer Science from College of engineering Chengannur. With a proven track record of designing and implementing innovative solutions, I thrive on turning complex problems into efficient, scalable applications. My expertise spans various technologies, including Python, JavaScript, React, Node.js,Sql,MongoDb, Express JS , and I am always eager to learn and adopt new tools and methodologies.I have practical experience from an internship in Full stack development, where I gained hands-on experience in building full-stack web applications. 
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Multimart  | It is a comprehensive e-commerce platform which involved creating a interactive user  interface with React,developing a server with Node.js and Express.js to manage product data and user information, and using MongoDB for efficient data storage and retrieval.                                        | [Hosted Link 1](https://example.com)    | https://github.com/Akshaysuresh07/Multimart_C            |
+|  PARKING SPACE PREDICTION USING ML  | Aims to help users to find available parking spaces efficiently.Our model was trained using Birmingham ParkingDataset from Kaggle and logistic regression is used.                                          | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -52,7 +52,6 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---

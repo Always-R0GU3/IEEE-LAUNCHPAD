@@ -1,8 +1,8 @@
-# Full Name 
+# Nikhitha Babu
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi,my name is Nikhitha.I'm currently pursuing my masters degree in computer application.
 
 
 ## Portfolio Highlights

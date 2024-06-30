@@ -1,8 +1,6 @@
-# Full Name 
+#Sona Ponnachen 
 
-### About Me
-
-> write about your self .................. (minimum 200 Characters)
+### I am Sona Ponnachen third year Electronics and Communication Engineering at Mar Baselios College of engineering trivandrum. 
 
 
 ## Portfolio Highlights
@@ -52,7 +50,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

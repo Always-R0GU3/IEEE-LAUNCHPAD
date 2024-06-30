@@ -1,8 +1,6 @@
-# Full Name 
+# pallavik@mulearn
 
-### About Me
-
-> write about your self .................. (minimum 200 Characters)
+### I am Pallavi ,studying MCA at RIT Kottayam,Hardworking ,reliable and excellent time keeper.
 
 
 ## Portfolio Highlights
@@ -52,7 +50,6 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---

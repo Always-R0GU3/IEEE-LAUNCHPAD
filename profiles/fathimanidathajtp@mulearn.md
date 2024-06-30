@@ -1,8 +1,15 @@
-# Full Name 
+# Fathima Nida Thaj T P
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Fathima Nida Thaj T P from Kasaragod. I recently completed my B.Tech in IT from LBS College of Engineering, Kasaragod. I have a strong interest in becoming a developer, with a passion for coding and problem-solving.
+
+During my studies, I learned various programming languages and technologies. I worked on projects that gave me practical experience in software development and teamwork.
+
+I aim to work on projects that positively impact people's lives. I am eager to apply my skills and grow as a developer in a dynamic environment.
+
+As I start my career, I look forward to new opportunities and contributing to the tech industry.
+
 
 
 ## Portfolio Highlights
@@ -11,9 +18,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Lexico - A Dyslexic Learning Hub  | Lexico is a supportive learning hub designed specifically to help dyslexic individuals improve their reading and writing skills through tailored resources and techniques.                                              | [Hosted Link 1](https://example.com)    | https://github.com/NidaThaj/Lexico.git             |
+| InfoGenie - A Web Based Bot  | InfoGenie is a web-based bot designed to streamline the college admission process by providing information, answering queries, and guiding applicants through each step.                                              | [Hosted Link 2](https://example.com)    | https://github.com/NidaThaj/InfoGenie.git             |
 
+
+
+---
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.

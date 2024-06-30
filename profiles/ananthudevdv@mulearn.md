@@ -1,8 +1,8 @@
-# Full Name 
+# Ananthu Dev
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Ananthu Dev , recent mca graduate
 
 
 ## Portfolio Highlights

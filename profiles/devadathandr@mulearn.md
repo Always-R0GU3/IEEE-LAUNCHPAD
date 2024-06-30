@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+3rd year Computer Science student at St. Thomas Institute for Science and Technology 
 
 
 ## Portfolio Highlights
@@ -49,10 +49,5 @@
 #### Competitive Website Profiles:
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

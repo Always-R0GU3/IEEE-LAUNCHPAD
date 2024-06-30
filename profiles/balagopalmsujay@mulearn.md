@@ -1,8 +1,8 @@
-# Full Name 
+# Balagopal M Sujay
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi my name is Balagopal. I am currently pursuing my Btech
 
 
 ## Portfolio Highlights

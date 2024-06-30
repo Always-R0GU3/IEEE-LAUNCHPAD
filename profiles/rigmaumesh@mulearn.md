@@ -1,8 +1,7 @@
-# Full Name 
+# RIGMA UMESH N K 
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+Hello I am Rigma Umesh .I am here to explore new technologies and skills.
 
 
 ## Portfolio Highlights

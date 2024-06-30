@@ -1,8 +1,8 @@
-# Full Name 
+# Mohamed Salman Farzi A 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Salman Farzi from Kazhakootam,Trivandrum. I am pursuing M Tech Renewable Energy Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 
 ## Portfolio Highlights

@@ -1,18 +1,18 @@
-# Full Name 
+# Sreejith PL
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm sreejith PL,I recently graduate from KMEA ENGINEERING COLLEGE with a degree in Electrical and Electronics Engineering. During my academic tenure, I specialized in power quality,power system, designing etc ..Although I am new to the professional world, I am a quick learner and highly motivated to apply my knowledge in a practical setting.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                                  | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Gravity based Power generation 1**  | A power generation and a storage system                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **home automation**.                  | A power consumption and automation purpose                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

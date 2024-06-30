@@ -1,8 +1,8 @@
-# Full Name 
+# Ronitt K Santhosh
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I graduated from Amal Jyothi College of Engineering with a BTech degree in Information Technology in 2024. I have also done an internship in PHP.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| DermoScan           | A website for Skin cancer detection using image processing.               | [Hosted Link 1](https://example.com)     | [Repo Link 1]([https://github.com/ronitt007/efficientnet.git]) |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)     | [Repo Link 2](https://github.com/username/project2)            |
 
 #### Leadership and Influence:
 
@@ -51,8 +51,5 @@
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

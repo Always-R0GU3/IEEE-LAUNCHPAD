@@ -1,8 +1,9 @@
-# Full Name 
+# Chemmanoor Josephine Joseph
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a final year btech student , studying at Sahrdaya College of Engineering and Technology.
+
 
 
 ## Portfolio Highlights

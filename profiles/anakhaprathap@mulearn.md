@@ -1,9 +1,9 @@
-# Full Name 
+# Anakha Prathap 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> I am a Computer Science and Engineering graduate from Lourdes Matha College of Science and Technology, TVM.
+> I have keen interest in Machine Learning. My education has equipped me with a strong foundation in software development, particularly in Python.
 
 ## Portfolio Highlights
 
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Multi-Class Lung Disease Classifier using Deep Learning and Image Processing**  | In response to COVID-19 and the subsequent rise in lung-related issues, this project aims to develop a deep learning architecture for multi-class classification of pneumonia, lung cancer, tuberculosis, lung opacity, and COVID-19. The project utilizes a pre-trained model VGG19 followed by three blocks of convolutional neural network (CNN) along with image processing for the desired results.| [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Student Attendance Using Fingerprint**  | The system described in this project aims to replace the traditional methods of attendance taking by introducing a biometric attendance system that will be time efficient and environment friendly. The desired project is designed by interfacing a fingerprint sensor with Arduino, LCD Display, and RTC Module.| [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

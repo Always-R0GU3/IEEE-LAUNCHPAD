@@ -1,8 +1,10 @@
-# Full Name 
+# Haritha K 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My name is Haritha K , and I come from Kasaragod district in Kerala. I graduated in Electronics and Communication Engineering from the College
+ of Engineering Trikariur,Kerala.I my hobbies are listening in music and cycling. Listening in music relaxes the mind and cycling helps me to stay
+ fit but allows me to gain physical fitness.I developed strong foundation in my field. 
 
 
 ## Portfolio Highlights
@@ -11,8 +13,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Third eye for blind using ultrasonic sensor| This project helps blind people understand wheather there is a object infront of them. If the object is close it make vibration and if not near sound will be less. | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Non invasive blood group detection from fingerprint  |It delays with finding blood group using rigid structure of fingerprint. Taking some properties from fingerprint                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

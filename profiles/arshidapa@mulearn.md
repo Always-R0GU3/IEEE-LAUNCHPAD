@@ -1,8 +1,8 @@
-# Full Name 
+# ARSHIDA P A
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Myself ARSHIDA P A.I'm currently pursuing MCA at COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY.I completed my graduation in Bcs MATHEMATICS from UC college,aluva. 
 
 
 ## Portfolio Highlights

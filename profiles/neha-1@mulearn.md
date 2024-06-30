@@ -1,9 +1,10 @@
-# Full Name 
+# Neha B
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> My name is Neha B. I'm a graduate from KMEA Engineering College specialised in Electrical and Electronics Engineering. I'm a passionate story teller and visual enthusiast. My hobbies are reading and writing. 
+I'm an active listner and a positive thinker.I'm more passionate to film direction, phoyography and cinematography.
+ I believe in the power of storytelling to inspire, educate, and connect people across cultures and backgrounds.
 
 ## Portfolio Highlights
 

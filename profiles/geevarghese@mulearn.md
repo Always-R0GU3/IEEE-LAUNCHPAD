@@ -1,8 +1,8 @@
-# Full Name 
+# Geevarghese Regi
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+This is an about me section. :)
 
 
 ## Portfolio Highlights

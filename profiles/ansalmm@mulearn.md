@@ -1,8 +1,8 @@
-# Full Name 
+# Ansal M M 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> iam complted btech computer science in 2023.
 
 
 ## Portfolio Highlights

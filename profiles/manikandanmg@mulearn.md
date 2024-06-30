@@ -1,8 +1,8 @@
-# Full Name 
+# Manikandan M G
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> pursuing MCA (2023-2025) from RIT GEC KOTTAYAM
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+|  PYTHON             | Basic python programming                                                  | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/ManikandanM13/PYTHON-PROGRAMMING-LAB)             |
+| WEB PROGRAMMING     | Basics of web programming                                                 | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/ManikandanM13/WEB-PROGGRAMMING)             |
 
 #### Leadership and Influence:
 
@@ -51,8 +51,5 @@
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

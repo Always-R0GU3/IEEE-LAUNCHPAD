@@ -1,6 +1,6 @@
-# Full Name 
+# Nijina S
 
-### About Me
+### Myself Nijina S. Currently I am looking for a job. 
 
 > write about your self .................. (minimum 200 Characters)
 

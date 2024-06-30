@@ -1,8 +1,12 @@
-# Full Name 
+# ULLAS K M
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Dedicated software engineer with expertise in multiple programming languages, including Python, Java, and C++. Skilled in
+developing robust, scalable software solutions and familiar with modern development methodologies. Experienced in web
+development, basic machine learning, and integrating AI solutions. Passionate about continuous learning and implementing
+best practices to deliver high-quality, efficient code.
+
 
 
 ## Portfolio Highlights
@@ -11,8 +15,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Library management system**  | This is a website created using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.The
+functionality of this project is to issue books and return books                                             |     | [[Repo Link 1](https://github.com/ullaskm001/libmns)  ]           |
+| **Blogify app**  | : This Android app was created using Java and Firebase as a database. We can write blogs and share them with
+everyone and we can edit and delete blogs.                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -44,7 +50,7 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual Studio code,Pycharm
 
 #### Competitive Website Profiles:
 
@@ -53,6 +59,6 @@
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> 
 
 ---

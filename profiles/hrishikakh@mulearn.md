@@ -1,8 +1,8 @@
-# Full Name 
+# Hrishika K H 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Btech Graduate in Computer Science and Engineering
 
 
 ## Portfolio Highlights

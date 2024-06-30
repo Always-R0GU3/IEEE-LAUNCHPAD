@@ -1,8 +1,8 @@
-# Full Name 
+# Sneha V
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+A passionate MCA student with a keen interest in exploring the world of computer science. Currently gaining a solid foundation in programming laguages.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| XPLORE:An object Detection App for Kids  | Develpoed using Python, Java, XML,CSS                 |                                          |                                                                |
 
 #### Leadership and Influence:
 
@@ -52,7 +51,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

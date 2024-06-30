@@ -1,8 +1,8 @@
-# Full Name 
+# Ajobin R G
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+My name is Ajobin currently pursuing Btech in EEE 4th year  hobbies Gaming football watching movies 
 
 
 ## Portfolio Highlights

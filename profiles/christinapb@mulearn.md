@@ -1,8 +1,8 @@
-# Full Name 
+# Christina P B
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a 3rd year B. Tech Computer Science student studying at Sahrdaya College of Engineering and Technology. 
 
 
 ## Portfolio Highlights

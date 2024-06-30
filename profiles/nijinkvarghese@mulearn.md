@@ -1,11 +1,11 @@
-# Full Name 
+# Nijin K Varghese 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+I’m Nijin K Varghese, an undergraduate student pursuing Computer Science Engineering, currently in the 4th year. I have strong communication skills and a natural leadership flair. Currently Campus Lead of MuLearn CEK, Vice-Chair of the SPS/PHO/MTTS/SSCS Joint Chapter Societies at IEEE Student Branch, College of Engineering, Karunagappally. State-level winner of the YIP 4.0 competition, helped me for guiding teams efficiently and fostering cohesive collaboration. Done internship under KDISC, MuLearn for YIP 6.0 helped the networking with various organizations.
 
 ## Portfolio Highlights
+
 
 ### My Projects
 
@@ -52,7 +52,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

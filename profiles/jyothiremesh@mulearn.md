@@ -1,8 +1,8 @@
-# Full Name 
+# Jyothi Remesh
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Im Jyothi Remesh,I completed my Btech degree in ECE from College of Engineering Trikaripur in 2023. I have also completed an 8 months of training in Advanced VLSI design and verification course from Maven Silicon.
 
 
 ## Portfolio Highlights

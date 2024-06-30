@@ -1,9 +1,8 @@
-# Full Name 
+#  Jithin K Chandran
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> From College Of Engineering Thalasesery,IT branch. Do have theoretical knowledge about programming languages like C, Java, Python and SQL
 
 ## Portfolio Highlights
 

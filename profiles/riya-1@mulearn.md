@@ -1,8 +1,8 @@
-# Full Name 
+# RIYA DOMINIC
 
-### About Me
+### PYTHON DJANGO WEB DEVELOPER
 
-> write about your self .................. (minimum 200 Characters)
+> I COMPLETED MY GRADUATION IN 2023 FROM KANNUR UNIVERSITY.MY AREA OF STUDY IS BCA.
 
 
 ## Portfolio Highlights

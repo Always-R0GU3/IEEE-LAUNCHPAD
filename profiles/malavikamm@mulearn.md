@@ -1,8 +1,8 @@
-# Full Name 
+# MALAVIKA M M
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am a btech graduate in Electronics and Communication in the 2020-24 batch.Basically from thrissur currently in trivandrum.
 
 
 ## Portfolio Highlights
@@ -52,7 +52,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

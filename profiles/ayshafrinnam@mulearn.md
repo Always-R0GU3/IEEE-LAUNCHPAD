@@ -1,8 +1,9 @@
-# Full Name 
+# Aysha Frinna m 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>Iam a recent Graduate From College of Engineering and management Punnapra in Btech in Computer science and Engineering I am a quick learner and proficient in Python and AI. Skilled in implementing AI algorithms and methodologies. I
+am currently seeking opportunities to apply my expertise in innovative projects and immerse myself further in the evolving field of data science.
 
 
 ## Portfolio Highlights

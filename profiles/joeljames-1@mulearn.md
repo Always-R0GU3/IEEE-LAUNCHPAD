@@ -1,11 +1,9 @@
-# Full Name 
+# Joel James
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I'm a BTech graduate
 
-
-## Portfolio Highlights
 
 ### My Projects
 
@@ -49,10 +47,3 @@
 #### Competitive Website Profiles:
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----

@@ -1,8 +1,11 @@
-# Full Name 
+# Bijin S Baburaj 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Motivated and detail-oriented Python Full Stack Developer with a strong foundation in both frontend and backend
+development technologies. Eager to leverage skills in Python, JavaScript, and related frameworks to contribute to
+innovative projects as part of a dynamic team.
+
 
 
 ## Portfolio Highlights
@@ -28,31 +31,23 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala boasts a wealth of top-tier talent, potentially the best in the country. However, numerous government initiatives, though commendable, often remain obscure and inaccessible to many, leading them towards the conventional seek opportunities abroad for financial gains route. It's imperative that we not only provide these opportunities but also actively disseminate awareness about them, ensuring that we retain the majority, if not all, of the talent nurtured in our state.
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual Studio Code
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [Leetcode](https://leetcode.com/u/bijinsreeragam/)
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
+
 
 ---

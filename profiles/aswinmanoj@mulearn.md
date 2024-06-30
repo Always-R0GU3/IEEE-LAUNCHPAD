@@ -1,8 +1,7 @@
-# Full Name 
+# Aswin Manoj 
 
-### About Me
+### My name is Aswin Manoj.Currently Passed out MCA from Vidya Academy of Science and Technology, Thrissur.
 
-> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
@@ -11,8 +10,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Online Auction System**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Online Travel booking App**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

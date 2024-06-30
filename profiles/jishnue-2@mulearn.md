@@ -1,8 +1,8 @@
-# Full Name 
+# JISHNU E
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Jishnu E coming from Kannur. I did my btech in electronics and communication engineering from college of engineering thalassery in 2024. 
 
 
 ## Portfolio Highlights
@@ -16,15 +16,15 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 

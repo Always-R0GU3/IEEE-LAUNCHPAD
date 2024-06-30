@@ -1,8 +1,8 @@
-# Full Name 
+# Tomson J Finosh 
 
-### About Me
+### first year CSE student at mariam Engineering College.hehehehe...
 
-> write about your self .................. (minimum 200 Characters)
+> im a frist year student from Marian engineering college hehehehe x2
 
 
 ## Portfolio Highlights
@@ -11,13 +11,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Lancers             | Currently working on it hehe                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- I really love being a leader of something. from my school days, what all programs and events happens at my school i never participated in ut but i run the program. thats a great experience for me.
 #### Networking:
 
 - Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.

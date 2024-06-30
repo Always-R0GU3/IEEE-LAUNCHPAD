@@ -1,8 +1,8 @@
-# Full Name 
+# ANN MARIA SAJI
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Myself a final year student in Sahrdaya college of engineering and technology,Kodakara,interested in innovative programming using python. 
 
 
 ## Portfolio Highlights
@@ -11,8 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Multi-Lingual Voice Translation assistent**  | A real time speech to speech translation system,which can be used to translate voice or text input into any desired language.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 
 #### Leadership and Influence:
 

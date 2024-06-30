@@ -1,8 +1,8 @@
-# Full Name 
+# KEVIN K. JACOB
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My name is Kevin K. Jacob. I am from mallappally. I had completed my B.Tech graduation in electronics and communication from kerala technological university.
 
 
 ## Portfolio Highlights

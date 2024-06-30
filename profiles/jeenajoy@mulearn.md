@@ -1,8 +1,6 @@
-# Full Name 
+# Jeena Joy
 
-### About Me
-
-> write about your self .................. (minimum 200 Characters)
+### Myself Jeena Joy,Btech 2023 Graduate From College Of Engineering aranmula.Iam Passionate about webdevelopment and proficient in java,python and c.
 
 
 ## Portfolio Highlights
@@ -52,7 +50,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

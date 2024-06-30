@@ -1,8 +1,9 @@
-# Full Name 
-
+# Angel Alint
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am a final year computer science student. I am intereseted in cyber security and deep learning.
+I am at an intermmediate level in c and python.I am someone with curiosity and enthusiasm to learn.
+I am also interested in reading ,dancing and poetry.
 
 
 ## Portfolio Highlights
@@ -11,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Innovative approaches to energy demand forecasting | Developed an advanced electricity demand forecasting system using deep learning and ensemble machine learning models. Achieved high accuracy through automated analysis of historical data,optimizing resource allocation and enhancing grid stability                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Angelalint/energy_demand_prediction)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:

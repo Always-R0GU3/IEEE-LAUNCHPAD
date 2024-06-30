@@ -1,8 +1,8 @@
-# Full Name 
+# Nayanika B. Gitanjali
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+ first year ec student studying at marian engineering college 
 
 
 ## Portfolio Highlights
@@ -52,7 +52,6 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---

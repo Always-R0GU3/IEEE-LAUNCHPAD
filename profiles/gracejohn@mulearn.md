@@ -1,8 +1,8 @@
-# Full Name 
+# Grace John
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a tech enthusiast who is a recent graduate in computer science and engineering from viswajyothi college of engineering and technology.
 
 
 ## Portfolio Highlights

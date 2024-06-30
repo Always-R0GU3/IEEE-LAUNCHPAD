@@ -1,18 +1,18 @@
-# Full Name 
+# ALAN JOHNS MATHEW 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Engineer Trainee at Tosil Systems, Technopark, Thiruvananthapuram
+> Completed B.Tech in Computer Science and Engineering at College of Engineering Kallooppara
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                                          | Description                                                                                        | Repo Link                                                                        |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Emotional and Sentimental Analysis(EASY)**  | Our project aims to detect realtime emotions of a person and a personality test based on MBTI model| [Repo Link 1](https://github.com/alanjohns735/EMOTIONAL-AND-SENTIMENTAL-ANALYSIS)             |
 
 #### Leadership and Influence:
 

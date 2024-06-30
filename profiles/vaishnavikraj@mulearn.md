@@ -1,8 +1,10 @@
-# Full Name 
+# Vaishnavi K Raj
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Vaishnavi K Raj, I have completed my BCA from St. Anns College,Angamaly and currently pursuing MCA from UC College Aluva.
+
+
 
 
 ## Portfolio Highlights

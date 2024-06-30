@@ -1,8 +1,11 @@
-# Full Name 
+# Muhammed S Subaan 
 
-### About Me
+### I am a passionate BTech Computer Science and Engineering graduate seeking fruitful opportunities.
 
-> write about your self .................. (minimum 200 Characters)
+> Muhammed S Subaan
+ BTech CSE Graduate
+
+As a recent graduate with a Bachelor of Technology in Computer Science and Engineering, I am eager to bring my skills and enthusiasm for technology to a dynamic and innovative team. My academic background has equipped me with a strong foundation in computer science principles, programming languages, and software development methodologies.
 
 
 ## Portfolio Highlights
@@ -11,8 +14,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Flood prediction using Machine Learning**  |                                          | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **E-Pass system in hospitals**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

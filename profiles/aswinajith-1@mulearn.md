@@ -1,8 +1,8 @@
-# Full Name 
+# Aswin Ajith
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Highly motivated and results-driven student intern with a strong academic background and experience in C programming, Java programming, Figma. Ability to work independently and collaboratibely in fast-paced environments, and a passion for Computer field. Strong written and verbal communication skills, as well as excellent analytical and problem-solving abilities. Great desire to continuously learn and grow in a professional setting
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Street Light**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Plant Identification**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

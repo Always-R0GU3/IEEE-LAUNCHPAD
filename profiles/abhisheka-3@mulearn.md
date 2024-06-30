@@ -1,8 +1,11 @@
-# Full Name 
+# Abhishek A
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi there! My name is Abhishek A. I recently graduated with a btech in computer science and engineering from Mar Baselios college
+ of engineering and technology. My passion lies in software developement, particularly in creating innovative solutions that
+ enhance user experience. I'm eager to apply my skills in real-world projects. I enjoy exploring new technologies and contributing
+ to open source communities.
 
 
 ## Portfolio Highlights

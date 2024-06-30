@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am R Aalsan Jaas, pursuing B.Tech in Computer Science and Engineering at Lourdes matha college of science and technology Trivandrum,Under APJ Abdul Kalam Technological University. Currently serving As Secretary IEEE SB LMC, Mulearn Campus Technical Lead.
 
 
 ## Portfolio Highlights
@@ -11,9 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
+| **AI Mouse**  | Detects the hand gestures and do funtionality of mouse using a camera and computer vision techniques                                             |    |           |
+|**Face Detection**|Detects the face and shows the name of the detected person|         |         |
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
@@ -48,11 +47,4 @@
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- https://www.hackerrank.com/profile/raalsanjaas2791

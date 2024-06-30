@@ -1,8 +1,10 @@
-# Full Name 
+# Abhirami KP
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Iam Abhirami kp , I recently graduated with btech in Electronics And Communication from Govt engineering college Idukki. I am very passionate about creating intutive and engaging user interfaces.
+during my studies, I have hands on experiences with diffrent projects which allow me to apply my designing skills. I am particularly passionate on web design, app design. i have good knowledge with designing tools 
+like figma, illustrator,photoshop,
 
 
 ## Portfolio Highlights
@@ -11,8 +13,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Plantae  | Plantae is a plant care app , its goal is to nourishes the plants ensuring the best possible growth.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Resboard  | Resboard is an accademic social network which provides its users a tick-tok experience of researching.                                           | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

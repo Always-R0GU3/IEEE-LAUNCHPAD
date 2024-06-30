@@ -1,8 +1,10 @@
-# Full Name 
+# Rohith S 
 
 ### About Me
+Graduate with a B.Tech in Computer Science seeking an entry-level position where I can utilize my programming 
+skills to contribute effectively while continuing to learn and grow.
 
-> write about your self .................. (minimum 200 Characters)
+
 
 
 ## Portfolio Highlights
@@ -11,8 +13,11 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Product Price Tracker and Shopping Companion*  | Build a tool to search for Product and Price by using
+Python, React and FastAPI. This project help to track price of every product in the google with the help of web
+scraping.                                            | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Face Recognition Attendance Tracker**  | Build a project that does face tracking and had quantified success using
+Python. This project’s helps to identify the face and mark attendance of the students                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -44,7 +49,7 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+Python, C++, HTML
 
 #### Competitive Website Profiles:
 
@@ -52,7 +57,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

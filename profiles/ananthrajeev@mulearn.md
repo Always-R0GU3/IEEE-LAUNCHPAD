@@ -1,8 +1,8 @@
-# Full Name 
+#  Ananth Rajeev
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Completed BTech in Electronics and Communication Engineering in 2024 from Vidya Academy of Science and Technology, Thrissur.
 
 
 ## Portfolio Highlights

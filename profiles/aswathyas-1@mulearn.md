@@ -1,6 +1,6 @@
-# Full Name 
+# Aswathy A S 
 
-### About Me
+### Iam Aswathy A S,currently pursuing MCA at RIT Kottayam.Iam a hardworking and determined person.
 
 > write about your self .................. (minimum 200 Characters)
 
